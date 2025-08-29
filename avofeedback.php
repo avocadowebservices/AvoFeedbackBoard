@@ -3,7 +3,7 @@
  * Plugin Name: AvoFeedBack
  * Description: A human feedback board for WordPress—fresh, honest, inspired by LogChimp.
  * Version: 0.1
- * Author: [Your Name or Business]
+ * Author: Joseph Brzezowski
  * Text Domain: avofeedback
  */
 
