@@ -1,46 +1,60 @@
-<p align="center">
-  <img src="https://i.imgur.com/SXJQb9k.png" alt="AvoFeedBack Logo" width="120" />
-</p>
+# AvoFeedBack
 
-<h1 align="center">AvoFeedBack 🍐</h1>
-<p align="center">
-  <em>
-    An open-source feedback board for WordPress, inspired by LogChimp.<br>
-    Handcrafted by Joseph Brzezowski for the Deaf community—and everyone who wants feedback to feel human.
-  </em>
-</p>
-
-<p align="center">
-  <img alt="License: GPLv3" src="https://img.shields.io/badge/License-GPLv3-blue.svg" />
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-6.x+-blueviolet.svg" />
-  <img alt="Build: Open Source" src="https://img.shields.io/badge/Build-Open%20Source-success" />
-</p>
+AvoFeedBack is an open-source, human-focused feedback board for WordPress, inspired by LogChimp.  
+Built with care by Joseph Brzezowski for the Deaf community—and for anyone who wants feedback to feel honest and accessible.
 
 ---
 
-## 🌱 Why AvoFeedBack?
+## Features
 
-Every community deserves a place where **anyone** can speak up and be heard.  
-Too many feedback tools feel cold, complicated, or just too expensive for small teams.  
-AvoFeedBack is yours, on your WordPress, forever—welcoming, simple, and built with care.
-
----
-
-## ✨ Features
-
-- **Public feedback board**: Showcase ideas, suggestions, and votes
-- **Easy feedback submission**: Simple form, no fuss (guests or logged-in)
-- **Voting system**: Let your community highlight what matters most
-- **Status tracking**: New, Planned, In Progress, Completed, Rejected
-- **Comments & conversation**: Discuss each idea in the open
-- **Admin panel**: Moderate, update, and reply—right in WP
-- **Drop-in ready**: Use anywhere via shortcode or block
-- **Accessible by design**: Clean, clear, and friendly
+- Public feedback board—ideas, suggestions, upvotes
+- Easy frontend submission (no login required, unless you want)
+- Voting system to surface what matters most
+- Status tracking: New, Planned, In Progress, Completed, Rejected
+- Comments/discussion under each feedback
+- Admin tools for review, moderation, and status updates
+- Drop anywhere on your site with a shortcode or block
+- Clean, accessible design—friendly to all
 
 ---
 
-## 🚀 Quick Start
+## Install
 
-1. **Clone the repo:**
-   ```sh
-   git clone https://github.com/avocadowebservices/AvoFeedbackBoard.git
+1. Clone or download this repo:
+    ```sh
+    git clone https://github.com/avocadowebservices/AvoFeedbackBoard.git
+    ```
+2. Upload the folder to your WordPress `/wp-content/plugins/` directory.
+3. Activate **AvoFeedBack** from the WordPress plugins screen.
+4. Find the new “AvoFeedBack” section in your admin sidebar.
+
+---
+
+## Roadmap
+
+- [ ] Frontend feedback form
+- [ ] Voting/upvoting
+- [ ] Status filters and sorting
+- [ ] Optional notifications
+- [ ] More polish and docs
+
+Feedback and ideas are always welcome—open an [issue](https://github.com/avocadowebservices/AvoFeedbackBoard/issues) or pull request!
+
+---
+
+## License
+
+GPL-3.0  
+Free to use, share, and improve.
+
+---
+
+## Credits
+
+Handcrafted by Joseph Brzezowski  
+AvocadoWeb Services LLC  
+Built for the community. Deaf-owned. Human-first.
+
+---
+
+> “Real feedback is the seed of every good thing. Let’s grow something better together.”
